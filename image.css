@@ -1,0 +1,91 @@
+
+.delll{
+        text-align: left;
+        
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 0.2cm;
+        margin-top: 1cm;
+        align-items: end;
+        margin-right: 10cm;
+        display: flex;
+        
+        /* opacity: 0.5;
+        background-color: black; */
+}
+body{
+    background-image: url("/giorgio-trovato-H8X-2bchJI8-unsplash.jpg");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .dell:hover{
+    transition: 0.3ms;
+    transform: scale(1.1,1.1);
+}
+.rog:hover{
+    transition: 0.3ms;
+    transform: scale(1.1,1.1);
+}
+.msi:hover{
+    transition: 0.3ms;
+    transform: scale(1.1,1.1);
+} */
+
+.rogg{
+    text-align: left;
+     
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 0.2cm;
+        margin-top: 1cm;
+        align-items: end;
+        margin-right: 10cm;
+        display: flex;
+
+}
+
+.msii{
+    text-align: left;
+        
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 0.2cm;
+        margin-top: 1cm;
+        align-items: end;
+        margin-right: 10cm;
+        display: flex;
+
+}
+.legionn{
+    text-align: left;
+        
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 0.2cm;
+        margin-top: 1cm;
+        align-items: end;
+        margin-right: 10cm;
+        display: flex;
+}
+.applee{
+    text-align: left;
+        
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 0.2cm;
+        margin-top: 1cm;
+        align-items: end;
+        margin-right: 10cm;
+        display: flex;
+}
+dt{
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+dd{
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    margin-left: 40%;
+    
+}
